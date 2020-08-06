@@ -13,7 +13,7 @@ new Vue({
           name: "Edge of Desire",
           artist: "John Mayer",
           cover: "img/edgeofdesire.jpg",
-          source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/edgeofdesire.mp3",
+          source: "https://audio.jukehost.co.uk/z61xjLjlAfBbu6utkIvvchZ2IVcIs3bZ",
           url: "https://www.youtube.com/watch?v=5GTbM5-ku-M",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "Heart of Life",
           artist: "John Mayer",
           cover: "img/heartoflife.JPG",
-          source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/heartoflife.mp3",
+          source: "https://audio.jukehost.co.uk/X6UjAV1vbwNkA4VaePypEi7G8msIaxGD",
           url: "https://www.youtube.com/watch?v=AsAzxYW_ZGk",
           favorited: false
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Slow Dancing in a Burning Room",
           artist: "John Mayer",
           cover: "https://ctl.s6img.com/society6/img/zTsYpXXQsc6OzVohmvcpm8ejYSY/w_1500/cards/~artwork,fw_1300,fh_2000,iw_1300,ih_2000/s6-0013/a/4265198_16176410/~~/slow-dancing-in-a-burning-room-john-mayer-cards.jpg",
-          source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/slowdancing.mp3",
+          source: "https://audio.jukehost.co.uk/b35AwcyqVIVgARKFZg7rV5ZlkoO885WB",
           url: "https://www.youtube.com/watch?v=5MkfBNl_3pw",
           favorited: false
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Stop This Train",
           artist: "John Mayer",
           cover: "https://i.pinimg.com/originals/6b/1b/7b/6b1b7b06ce269d399e6841530f7dadc9.jpg",
-          source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/stopthistrain.mp3",
+          source: "https://audio.jukehost.co.uk/KtH8qtisObIWJjx5MDsH3C4Yp1igaUNO",
           url: "https://www.youtube.com/watch?v=2UiX4dUUjWc",
           favorited: false
         }
