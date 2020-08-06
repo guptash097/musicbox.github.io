@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Edge of Desire",
           artist: "John Mayer",
-          cover: "https://i.ytimg.com/vi/_J8bRxLDZAo/maxresdefault.jpg",
+          cover: "img/edgeofdesire.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/edgeofdesire.mp3",
           url: "https://www.youtube.com/watch?v=5GTbM5-ku-M",
           favorited: false
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Heart of Life",
           artist: "John Mayer",
-          cover: "https://i.ytimg.com/vi/_J8bRxLDZAo/maxresdefault.jpg",
+          cover: "img/heartoflife.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/heartoflife.mp3",
           url: "https://www.youtube.com/watch?v=AsAzxYW_ZGk",
           favorited: false
