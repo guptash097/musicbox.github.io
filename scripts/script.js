@@ -13,7 +13,7 @@ new Vue({
           name: "Edge of Desire",
           artist: "John Mayer",
           cover: "img/edgeofdesire.jpg",
-          source: "mp3/edgeofdesire.mp3",
+          source: "https://raw.githubusercontent.com/guptash097/musicbox.github.io/master/mp3/edgeofdesire.mp3",
           url: "https://www.youtube.com/watch?v=5GTbM5-ku-M",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "Heart of Life",
           artist: "John Mayer",
           cover: "img/heartoflife.JPG",
-          source: "https://audio.jukehost.co.uk/X6UjAV1vbwNkA4VaePypEi7G8msIaxGD",
+          source: "mp3/heartoflife.mp3",
           url: "https://www.youtube.com/watch?v=AsAzxYW_ZGk",
           favorited: false
         },
