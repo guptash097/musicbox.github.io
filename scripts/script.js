@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Heart of Life",
           artist: "John Mayer",
-          cover: "img/heartoflife.jpg",
+          cover: "img/heartoflife.JPG",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/heartoflife.mp3",
           url: "https://www.youtube.com/watch?v=AsAzxYW_ZGk",
           favorited: false
