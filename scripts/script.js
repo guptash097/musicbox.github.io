@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Heart of Life",
           artist: "John Mayer",
-          cover: "https://todaysmama.com/.image/t_share/MTU5OTA5MjQzMTEyNDY1Nzgz/image-placeholder-title.jpg",
+          cover: "https://i.ytimg.com/vi/_J8bRxLDZAo/maxresdefault.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/heartoflife.mp3",
           url: "https://www.youtube.com/watch?v=AsAzxYW_ZGk",
           favorited: false
