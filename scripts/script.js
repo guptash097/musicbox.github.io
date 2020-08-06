@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Edge of Desire",
           artist: "John Mayer",
-          cover: "file:///C:/Users/Shubham/Desktop/mini-player-master/img/edgeofdesire.jpg",
+          cover: "https://i.ytimg.com/vi/_J8bRxLDZAo/maxresdefault.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/edgeofdesire.mp3",
           url: "https://www.youtube.com/watch?v=5GTbM5-ku-M",
           favorited: false
