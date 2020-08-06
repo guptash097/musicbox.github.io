@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Heart of Life",
           artist: "John Mayer",
-          cover: "file:///C:/Users/Shubham/Desktop/mini-player-master/img/heartoflife.jpg",
+          cover: "https://todaysmama.com/.image/t_share/MTU5OTA5MjQzMTEyNDY1Nzgz/image-placeholder-title.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/heartoflife.mp3",
           url: "https://www.youtube.com/watch?v=AsAzxYW_ZGk",
           favorited: false
@@ -28,7 +28,7 @@ new Vue({
 		{
           name: "Slow Dancing in a Burning Room",
           artist: "John Mayer",
-          cover: "file:///C:/Users/Shubham/Desktop/mini-player-master/img/slowdancing.jpg",
+          cover: "https://ctl.s6img.com/society6/img/zTsYpXXQsc6OzVohmvcpm8ejYSY/w_1500/cards/~artwork,fw_1300,fh_2000,iw_1300,ih_2000/s6-0013/a/4265198_16176410/~~/slow-dancing-in-a-burning-room-john-mayer-cards.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/slowdancing.mp3",
           url: "https://www.youtube.com/watch?v=5MkfBNl_3pw",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
 		{
           name: "Stop This Train",
           artist: "John Mayer",
-          cover: "file:///C:/Users/Shubham/Desktop/mini-player-master/img/stopthistrain.jpg",
+          cover: "https://i.pinimg.com/originals/6b/1b/7b/6b1b7b06ce269d399e6841530f7dadc9.jpg",
           source: "file:///C:/Users/Shubham/Desktop/mini-player-master/mp3/stopthistrain.mp3",
           url: "https://www.youtube.com/watch?v=2UiX4dUUjWc",
           favorited: false
