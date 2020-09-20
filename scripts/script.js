@@ -9,6 +9,14 @@ new Vue({
       currentTime: null,
       isTimerPlaying: false,
       tracks: [
+	{
+          name: "Catgroove",
+          artist: "Parov Stelar",
+          cover: "img/catgroove.JPG",
+          source: "mp3/catgroove.mp3",
+          url: "https://www .youtube.com/watch?v=WXrdYwG17PE",
+          favorited: false
+        },
         {
           name: "Heart of Life",
           artist: "John Mayer",
